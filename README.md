@@ -1,5 +1,6 @@
 # Santiago Segre - Desafios
 
+
 ## Frontend Mentor 
 
 **1º Desafio**    
@@ -11,3 +12,17 @@
     - [Preview Card - Repositório](#) <br>
 
 **3º Desafio**
+    - <br>
+
+## Desafios Alura 
+
+**Desafio Calculadora de Média** <br>
+    - [Calculadora de Médias - Live](#) <br>
+    - [Calculadora de Médias - Repositório](#) <br>
+
+**Desafio Conversor de Moedas** <br>
+    - [Conversor - Live](#) <br>
+    - [Conversor - Repositório](#) <br>
+
+
+## Projetos Pessoais
