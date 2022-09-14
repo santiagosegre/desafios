@@ -2,13 +2,12 @@
 
 ## Frontend Mentor 
 
-**1º Desafio** :heavy_check_mark:     
-    - [QR Code - Live](https://santiagosegre.github.io/desafios/qr-code/).
-    - [QR Code - Repositório](https://github.com/santiagosegre/desafios/tree/main/qr-code)
+**1º Desafio** &#2714     
+    - [QR Code - Live](https://santiagosegre.github.io/desafios/qr-code/) <br>
+    - [QR Code - Repositório](https://github.com/santiagosegre/desafios/tree/main/qr-code) <br>
 
 **2º Desafio** :hourglass:  
-    - [Preview Card - Live](#)
-    - [Preview Card - Repositório](#)
+    - [Preview Card - Live](#) <br>
+    - [Preview Card - Repositório](#) <br>
 
-**3º Desafio** :warning: 
-    
+**3º Desafio** :warning: <br>
