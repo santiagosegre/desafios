@@ -21,8 +21,8 @@
     - [Calculadora de Médias - Repositório](https://github.com/santiagosegre/desafios/tree/main/calculadora-de-media) <br>
 
 **Desafio Conversor de Moedas** <br>
-    - [Conversor - Live](#) <br>
-    - [Conversor - Repositório](#) <br>
+    - [Conversor - Live](https://santiagosegre.github.io/desafios/conversor-de-moedas) <br>
+    - [Conversor - Repositório](https://github.com/santiagosegre/desafios/tree/main/conversor-de-moedas) <br>
 
 
 ## Projetos Pessoais
