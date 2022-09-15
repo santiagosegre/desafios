@@ -2,7 +2,7 @@
 
 Esse foi o resultado do Calculadora de Média utilizando o que aprendi com JS, HTML e CSS.
 
-Projeto proposta na Imersão Alura.
+Projeto proposto na Imersão Alura.
 
 ## Índice
 
