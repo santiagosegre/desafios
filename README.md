@@ -3,22 +3,22 @@
 
 ## Frontend Mentor 
 
-**1º Desafio**    
+**Desafio QR Code**    
     - [QR Code - Live](https://santiagosegre.github.io/desafios/qr-code/) <br>
     - [QR Code - Repositório](https://github.com/santiagosegre/desafios/tree/main/qr-code) <br>
 
-**2º Desafio** <br>
+**Desafio Preview Card** <br>
     - [Preview Card - Live](#) <br>
     - [Preview Card - Repositório](#) <br>
 
-**3º Desafio**
-    - <br>
+<!-- **Desafio**
+    - <br> -->
 
 ## Desafios Alura 
 
 **Desafio Calculadora de Média** <br>
-    - [Calculadora de Médias - Live](#) <br>
-    - [Calculadora de Médias - Repositório](#) <br>
+    - [Calculadora de Médias - Live](https://santiagosegre.github.io/desafios/calculadora-de-media/) <br>
+    - [Calculadora de Médias - Repositório](https://github.com/santiagosegre/desafios/tree/main/calculadora-de-media) <br>
 
 **Desafio Conversor de Moedas** <br>
     - [Conversor - Live](#) <br>
