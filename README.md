@@ -8,8 +8,8 @@
     - [QR Code - Repositório](https://github.com/santiagosegre/desafios/tree/main/qr-code) <br>
 
 **Desafio Preview Card** <br>
-    - [Preview Card - Live](#) <br>
-    - [Preview Card - Repositório](#) <br>
+    - [Preview Card - Live](https://santiagosegre.github.io/desafios/product-preview-card/) <br>
+    - [Preview Card - Repositório](https://github.com/santiagosegre/desafios/product-preview-card/) <br>
 
 <!-- **Desafio**
     - <br> -->

@@ -30,8 +30,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [QR Code - Live](https://santiagosegre.github.io/desafios/qr-code/) <br>
+- [QR Code - Repositório](https://github.com/santiagosegre/desafios/tree/main/qr-code) <br>
 
 ## O processo
 
