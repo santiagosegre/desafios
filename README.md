@@ -9,7 +9,7 @@
 
 **Desafio Preview Card** <br>
     - [Preview Card - Live](https://santiagosegre.github.io/desafios/product-preview-card/) <br>
-    - [Preview Card - Repositório](https://github.com/santiagosegre/desafios/product-preview-card/) <br>
+    - [Preview Card - Repositório](https://github.com/santiagosegre/desafios/tree/main/product-preview-card) <br>
 
 <!-- **Desafio**
     - <br> -->

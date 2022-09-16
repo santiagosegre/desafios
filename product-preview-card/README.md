@@ -29,10 +29,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ![](./images/screenshot3-mobile.png)
 
+![](./images/qr-code-gif.gif)
+
 
 ### Links
 
-- Solution URL: [Product Preview Card - Repositório](https://github.com/santiagosegre/desafios/product-preview-card/)
+- Solution URL: [Product Preview Card - Repositório](https://github.com/santiagosegre/desafios/tree/main/product-preview-card)
 - Live Site URL: [Product Preview Card - Live](https://santiagosegre.github.io/desafios/product-preview-card/)
 
 ## O processo
