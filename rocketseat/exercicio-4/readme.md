@@ -1,4 +1,4 @@
-## 9 Fotos em 3 colunas
+## Imagem dentro de um botão
 
-Crie uma galeria de fotos onde teremos 3 colunas 2 9 fotos
-Deixe um espaço de .8rem entre os elementos da galeria
+Crie um botão que contenha um ícone (img) e um texto.
+Coloque um espaço de .4rem entre os elementos.

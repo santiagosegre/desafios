@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    padding-top: 4rem;
+    flex-wrap: wrap;
+}
+
+.button-1, 
+.button-2,
+.btn-whatsapp,
+.btn-instagram {
+    display: flex;
+    align-items: center;
+    padding: .5rem 2rem;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 100, 0.479);
+    cursor: pointer;
+}
+
+.button-1:hover, 
+.button-2:hover,
+.btn-whatsapp:hover,
+.btn-instagram:hover {
+    border: 1px blue;
+    box-shadow: 2px 2px 5px rgba(0, 0, 100, 0.755);
+}
+
+img {
+    height: 1.5rem;
+    width: 1.5rem;
+}
