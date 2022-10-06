@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 3rem;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    padding: 0 1.4rem;
+}
+
+.itens {
+    list-style: none;
+    gap: .8rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 1.4rem;
+}
+
+.button {
+    align-items: flex-end;
+    background-color: blue;
+    border: 0;
+    padding: 0.3rem 0.9rem;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
