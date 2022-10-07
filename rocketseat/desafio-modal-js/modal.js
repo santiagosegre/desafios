@@ -1,16 +1,46 @@
-const element = document.querySelector('#openModal')
-element.addEventListener('click', remove)
+// depois de rever a resolução, melhorias:
 
-const esc = document.querySelector('.modal-wrapper')
+const buttonOpenModal = document.querySelector('#openModal')
+buttonOpenModal.addEventListener('click', remove)
+
+const modalWrapper = document.querySelector('.modal-wrapper')
 
 function remove() {
-    esc.classList.remove('invisible')
-    console.log(esc)
+    modalWrapper.classList.remove('invisible')
 }
 
-element.addEventListener("keypress", adicionar)
+/* resulução foi a seguinte: 
+
+const buttonOpenModal = document.getElementById('openModal')
+const modalWrapper = document.querySelector('.modal-wrapper')
+
+buttonOpenModal.onclick = function() {
+    modalWrapper
+    .classList
+    .remove('invisible')
+}
+
+*/
+
+document.addEventListener("keydown", function(event) {
+    const isEscKey = event.key === 'Escape'
+
+    if(isEscKey) { 
+        modalWrapper.classList.add('invisible') 
+    } else {
+        console.log("tente de novo!")
+    }
+
+})
+
+
+/*
+
+buttonOpenModal.addEventListener("keydown", adicionar)
 
 function adicionar() {
-    esc.classList.add('invisible')
-    console.log(esc)
+ modalWrapper.classList.add('invisible') 
+
 }
+
+*/
