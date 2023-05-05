@@ -12,6 +12,10 @@
     - [Preview Card - Live](https://santiagosegre.github.io/desafios/product-preview-card/) <br>
     - [Preview Card - Repositório](https://github.com/santiagosegre/desafios/tree/main/product-preview-card) <br>
 
+**Desafio Interactive Rating Component** <br>
+    - [Preview Card - Live](https://santiagosegre.github.io/desafios/interactive-rating-component-main/) <br>
+    - [Preview Card - Repositório](https://github.com/santiagosegre/desafios/tree/main/interactive-rating-component-main) <br>
+
 <!-- **Desafio**
     - <br> -->
 
